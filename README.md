@@ -1,3 +1,5 @@
+If you use this software for your research, please cite: Žiža, K., Tadić, P. & Vuletić, P. DNS exfiltration detection in the presence of adversarial attacks and modified exfiltrator behaviour. Int. J. Inf. Secur. (2023). https://doi.org/10.1007/s10207-023-00723-w
+
 # Modified DNSExfiltration tool
 
 The original tool can be found here: https://github.com/Arno0x/DNSExfiltrator.<br>
